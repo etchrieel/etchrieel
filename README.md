@@ -11,7 +11,9 @@ I'm a Newbie 🤓
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
+<p>
 </p>
+<p>
 </p>
 
 <p align="center">
