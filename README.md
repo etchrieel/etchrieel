@@ -7,6 +7,7 @@ I'm a Newbie 🤓
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-yellow)
 ![PHP](https://img.shields.io/badge/php-blue)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 <p align="center">
   <a href="https://github.com/etchrieel">
