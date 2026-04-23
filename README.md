@@ -13,7 +13,7 @@ I'm a Newbie 🤓
 </p>
 
 <p>
-![divider](https://user-images.githubusercontent.com/74038190/212749695-3cfd3c1b-5d1a-4d3c-8b6e-9cbb8a0e4b3b.gif)
+***
 </p>
 
 <p align="center">
