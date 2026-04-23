@@ -5,9 +5,12 @@ I'm a Newbie 🤓
 - Instagram: @wizoyyy
 
 ## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-yellow)
-![PHP](https://img.shields.io/badge/php-blue)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/etchrieel">
