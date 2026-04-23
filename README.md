@@ -12,9 +12,7 @@ I'm a Newbie 🤓
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<p>
-***
-</p>
+##
 
 <p align="center">
   <a href="https://github.com/etchrieel">
